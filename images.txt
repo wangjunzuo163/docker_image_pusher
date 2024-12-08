@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 mariadb:10.11.10
+--platform=linux/x86_64 centos:7.8.2003
