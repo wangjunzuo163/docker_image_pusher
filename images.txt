@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/x86_64 liaosnet/gbase8s
+--platform=linux/x86_64 ubuntu:latest
